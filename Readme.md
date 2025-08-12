@@ -3,7 +3,7 @@
 A touchless, gesture-controlled calculator built with **Python**, **OpenCV**, and **MediaPipe**.  
 This project allows users to perform calculations (basic and scientific) by pinching their **thumb** and **index finger** over a virtual button interface — no mouse or keyboard required.
 
-![Demo video](demo.gif)  
+![Demo video](Demo.mp4)  
 *(Above: Screen recording of the project in action)*
 
 ---
